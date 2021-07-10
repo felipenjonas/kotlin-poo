@@ -1,4 +1,4 @@
-import teste.Pessoa
+import teste.digitalBank.Pessoa
 
 fun main(args: Array<String>) {
     var cliente = Pessoa()
@@ -7,3 +7,4 @@ fun main(args: Array<String>) {
     println("CPF do cliente: ${cliente.cpf}")
 
 }
+

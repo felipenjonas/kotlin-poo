@@ -1,9 +1,7 @@
-package teste
+package teste.digitalBank
 
 class Pessoa {
-
     var nome: String = "Felipe"
-    private set
     var cpf: String = "123"
     private set
 
