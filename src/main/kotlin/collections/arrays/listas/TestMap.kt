@@ -29,4 +29,8 @@ fun main() {
             """.trimIndent())
     }
 
+//Get no valor da chave
+    val salarioJoao = map2["Pedro"]
+    println(salarioJoao)
+
 }
