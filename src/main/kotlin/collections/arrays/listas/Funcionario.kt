@@ -10,5 +10,6 @@ data class Funcionario(
             
             Nome: $nome
             Salário: $salario
+            Setor: $setor
         """.trimIndent()
 }
